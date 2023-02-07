@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkflower_shop"]=self["webpackChunkflower_shop"]||[]).push([[677],{8677:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=function(){var e=this,t=e._self._c;return t("div",[e._v(" webview ")])},s=[],u={name:"webview",data(){return{}},methods:{},created(){console.log("s",this.$route.params)},mounted(){}},o=u,a=n(1001),c=(0,a.Z)(o,r,s,!1,null,"dc1c29ac",null),l=c.exports}}]);
+//# sourceMappingURL=677.0dd075f2.js.map
